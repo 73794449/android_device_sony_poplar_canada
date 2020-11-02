@@ -19,7 +19,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_poplar_canada
+PRODUCT_NAME := rr_poplar_canada
 PRODUCT_DEVICE := poplar_canada
 PRODUCT_BRAND := Sony
 PRODUCT_MODEL := G8343
